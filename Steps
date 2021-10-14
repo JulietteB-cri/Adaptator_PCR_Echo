@@ -5,6 +5,13 @@ Exported in stl (ASCII Binary export)
 Printed with Ultimaker 3 (with CURA) :
   0.2 mm / PLA Black / nozzle : 205 C° / No need to support / Printed with Gyroid 50% 
 
+Remarks :
+
+We printed with U3M - Then, we recommend to print a test (depending your 3D printer), and adapt some measurements to it.
+
+ The adaptator need to catch the PCR plate (low-profile, 96 wells) because the machine reverse it before to enter inside. 
+ Then, you need to print the adaptator perfectly fitted.
+
 Links :
 https://ultimaker.com/fr/3d-printers/ultimaker-3
 https://ultimaker.com/fr/software/ultimaker-cura
