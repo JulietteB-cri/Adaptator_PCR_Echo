@@ -1,4 +1,4 @@
-Modelized with Rhinocéros 3D 6 (Mac) : Echo (96) been modelized, and PCR plate (low-profile) was substarcted from the original Echo shape, allowing to catch it and to fit into the Echo machine.
+Modelized with Rhinocéros 3D 6 (Mac) : Echo (96) been modelized, and PCR plate (low-profile) was substarcted from the original Echo shape, allowing to catch it and to fit into a Beckman Coulter Echo machine.
 
 Exported in stl (ASCII Binary export)
 
@@ -7,10 +7,10 @@ Printed with Ultimaker 3 (with CURA) :
 
 Remarks :
 
-We printed with U3M - Then, we recommend to print a test (depending your 3D printer), and adapt some measurements to it.
+We printed with U3M - Then, we recommend to print a test (depending your 3D printer), and adapt some measurements depending on the results.
 
- The adaptator need to catch the PCR plate (low-profile, 96 wells) because the machine reverse it before to enter inside. 
- Then, you need to print the adaptator perfectly fitted.
+ The adaptator must be able to maintain the PCR plate (low-profile, 96 wells) as the Echo machine reverses it. 
+ Therefeore,the adaptator must be perfectly fitted.
 
 Links :
 https://ultimaker.com/fr/3d-printers/ultimaker-3
